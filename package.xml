@@ -25,7 +25,7 @@
   <!-- Author tags are optional, multiple are allowed, one per tag -->
   <!-- Authors do not have to be maintainers, but could be -->
   <!-- Example: -->
-  <maintainer email="ixchel.ramirez-alpizar@ieee.org">Ixchel Ramirez-Alpizar</maintainer>
+  <author email="ixchel.ramirez-alpizar@ieee.org">Ixchel Ramirez-Alpizar</author>
 
 
   <!-- The *depend tags are used to specify dependencies -->
